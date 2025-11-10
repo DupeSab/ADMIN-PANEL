@@ -289,7 +289,7 @@ local webhookURL = "https://discord.com/api/webhooks/1437535784096759829/GlI5KE1
 
 -- Create payload safely
 local payload = {
-    content = "<@&1437536545413267526> Server Found | Tokinu Hub
+    content = "Server Found | Tokinu Hub
 }
 
 -- Convert to JSON
